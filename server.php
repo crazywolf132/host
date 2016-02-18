@@ -10,7 +10,7 @@
 // Example: $USER = 'user'; $PASSWORD = 'password';
 $USER = 'root';
 $PASSWORD = 'cherryhill6';
-
+$hostname = '162.243.97.243';
 // Multi-user credentials
 // Example: $ACCOUNTS = array('user1' => 'password1', 'user2' => 'password2');
 $ACCOUNTS = array();
